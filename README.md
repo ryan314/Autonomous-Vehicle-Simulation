@@ -6,9 +6,12 @@ JavaScript, CSS, and HTML
 
 
 + Explanation of Project
-- Utilizes a neural network founded upon the genetic algorithm to train the program to determine the optimal path for the car traversing through oncoming car traffic. 
-- Implements parallelization to optimize and quicken the training of the genetic neural network. 
-- Simulates collision detection with segment intersection and artificial sensors. 
+Utilizes a neural network founded upon the genetic algorithm to train the program to determine the 
+optimal path for the car traversing through oncoming car traffic. 
+
+Implements parallelization to optimize and quicken the training of the genetic neural network. 
+
+Simulates collision detection with segment intersection and artificial sensors. 
 
 
 + Modifications Made
